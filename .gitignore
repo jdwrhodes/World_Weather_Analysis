@@ -9,6 +9,10 @@ __pycache__/
 # Config File
 config.py
 
+# Files to ignore
+API_Practice.ipynb
+random_numbers.ipynb
+
 # Distribution / packaging
 .Python
 build/
