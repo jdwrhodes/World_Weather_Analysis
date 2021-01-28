@@ -13,6 +13,9 @@ config.py
 API_Practice.ipynb
 random_numbers.ipynb
 
+# Folders to ignore
+weather_data
+
 # Distribution / packaging
 .Python
 build/
