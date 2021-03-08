@@ -8,7 +8,7 @@ __pycache__/
 
 # Config File
 config.py
-
+config1.py
 # Files to ignore
 API_Practice.ipynb
 random_numbers.ipynb
